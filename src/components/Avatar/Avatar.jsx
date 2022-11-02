@@ -32,7 +32,7 @@ function AvatarInner(
         children
       ) : (
         <>
-          <img src={src} alt={name} />
+          <img src={src} alt={name} referrerpolicy="no-referrer"/>
           {typeof status === "string" && (
             <Status status={status} size={size} />
           )}{" "}
