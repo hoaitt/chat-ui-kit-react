@@ -1,5 +1,5 @@
 {
-  "name": "@chatscope/chat-ui-kit-react",
+  "name": "@hoaitt/chat-ui-kit-react",
   "version": "1.9.7",
   "description": "React component library for creating chat interfaces",
   "license": "MIT",
